@@ -1,4 +1,8 @@
 #!/bin/bash
 
-genomer view table --identifier=PRJNA68653 --reset_locus_numbering
-genomer view fasta --identifier=PRJNA68653
+genomer view table --identifier=PRJNA68653 --reset_locus_numbering > out/annotations.tbl
+genomer view fasta --identifier=PRJNA68653 > out/fasta.fsa
+
+cp submission/template.sbt out
+
+tbl2asn -p out
