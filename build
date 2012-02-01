@@ -1,8 +1,10 @@
 #!/bin/bash
 
-genomer view table --identifier=PRJNA68653 --reset_locus_numbering > out/annotations.tbl
-genomer view fasta --identifier=PRJNA68653 > out/fasta.fsa
+rm out/*
 
-cp submission/template.sbt out
+genomer view table --identifier=PRJNA68653 --reset_locus_numbering > out/plasmid.tbl
+genomer view fasta --identifier=PRJNA68653 --organism='Pseudomonas fluorescens' --strain='R124' > out/plasmid.fsa
 
-tbl2asn -p out
+cp submission/template.sbt out/plasmid.sbt
+
+tbl2asn -p out -V vb
