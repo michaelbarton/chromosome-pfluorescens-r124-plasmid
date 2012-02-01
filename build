@@ -2,8 +2,17 @@
 
 rm out/*
 
-genomer view table --identifier=PRJNA68653 --reset_locus_numbering > out/plasmid.tbl
-genomer view fasta --identifier=PRJNA68653 --organism='Pseudomonas fluorescens' --strain='R124' > out/plasmid.fsa
+genomer view table        \
+  --identifier=PRJNA68653 \
+  --reset_locus_numbering \
+  --prefix='I1A_'         \
+  > out/plasmid.tbl
+
+genomer view fasta                     \
+  --identifier=PRJNA68653              \
+  --organism='Pseudomonas fluorescens' \
+  --strain='R124'                      \
+  > out/plasmid.fsa
 
 cp submission/template.sbt out/plasmid.sbt
 
