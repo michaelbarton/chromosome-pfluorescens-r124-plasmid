@@ -2,11 +2,11 @@
 
 rm out/*
 
-genomer view table        \
-  --identifier=PRJNA68653 \
-  --reset_locus_numbering \
-  --prefix='I1A_'         \
-  --create_cds            \
+genomer view table                 \
+  --identifier=PRJNA68653          \
+  --reset_locus_numbering          \
+  --prefix='I1A_'                  \
+  --create_cds='gnl|BartonUAkron|' \
   > out/plasmid.tbl
 
 genomer view fasta                     \
