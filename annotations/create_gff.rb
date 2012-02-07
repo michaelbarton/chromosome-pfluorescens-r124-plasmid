@@ -12,7 +12,7 @@ gffs = CSV.read(raw).map do |line|
   id, start, stop, strand, gc, _, _, product, _ = line
   name = names[id.to_i]
 
-  attr = {'ID' => id, 'note' => product}
+  attr = {'ID' => id, 'product' => product}
   attr['Name'] = name if name
 
   Bio::GFF::GFF3::Record.new('scaffold00008',nil,'gene',start,stop,nil,strand,nil,attr)

@@ -1,53 +1,53 @@
 ##gff-version 3
-scaffold00008	.	gene	576	986	.	+	.	ID=2503279215;note=hypothetical protein
-scaffold00008	.	gene	1054	1359	.	+	.	ID=2503279216;note=hypothetical protein
-scaffold00008	.	gene	1613	1792	.	+	.	ID=2503279217;note=YcfA-like protein.
-scaffold00008	.	gene	1845	2270	.	+	.	ID=2503279218;note=Uncharacterised protein family (UPF0150).
-scaffold00008	.	gene	2381	3022	.	+	.	ID=2503279219;note=ATPases involved in chromosome partitioning;Name=yafB/parA
-scaffold00008	.	gene	3022	3348	.	+	.	ID=2503279220;note=hypothetical protein
-scaffold00008	.	gene	3597	4427	.	+	.	ID=2503279221;note=hypothetical protein
-scaffold00008	.	gene	4464	4715	.	+	.	ID=2503279222;note=hypothetical protein
-scaffold00008	.	gene	4951	5055	.	+	.	ID=2503279223;note=hypothetical protein
-scaffold00008	.	gene	5152	5613	.	-	.	ID=2503279224;note=hypothetical protein;Name=bip
-scaffold00008	.	gene	5764	6111	.	-	.	ID=2503279225;note=Helix-turn-helix.
-scaffold00008	.	gene	6471	6905	.	+	.	ID=2503279226;note=Transcription termination factor nusG.
-scaffold00008	.	gene	6989	7213	.	+	.	ID=2503279227;note=hypothetical protein
-scaffold00008	.	gene	7215	7562	.	+	.	ID=2503279228;note=hypothetical protein;Name=virB1
-scaffold00008	.	gene	7549	7875	.	+	.	ID=2503279229;note=hypothetical protein;Name=virB2
-scaffold00008	.	gene	8230	10641	.	+	.	ID=2503279230;note=Type IV secretory pathway%2C VirB4 components;Name=virB4
-scaffold00008	.	gene	10652	11329	.	+	.	ID=2503279231;note=P-type DNA transfer protein VirB5;Name=virB5
-scaffold00008	.	gene	11377	11703	.	+	.	ID=2503279232;note=hypothetical protein
-scaffold00008	.	gene	11714	12652	.	+	.	ID=2503279233;note=Type IV secretory pathway%2C VirB6 components;Name=virB6
-scaffold00008	.	gene	12720	13496	.	+	.	ID=2503279234;note=hypothetical protein;Name=pilL
-scaffold00008	.	gene	13496	15205	.	+	.	ID=2503279235;note=type IVB pilus formation outer membrane protein%2C R64 PilN family;Name=pilN
-scaffold00008	.	gene	15278	16525	.	+	.	ID=2503279236;note=Pilin accessory protein (PilO).;Name=pilO
-scaffold00008	.	gene	16482	17030	.	+	.	ID=2503279237;note=type IV pilus biogenesis protein PilP;Name=pilP
-scaffold00008	.	gene	17041	18567	.	+	.	ID=2503279238;note=Type II secretory pathway%2C ATPase PulE/Tfp pilus assembly pathway%2C ATPase PilB;Name=pilQ
-scaffold00008	.	gene	18564	19661	.	+	.	ID=2503279239;note=Type II secretory pathway%2C component PulF;Name=pilR
-scaffold00008	.	gene	19673	20260	.	+	.	ID=2503279240;note=PilS N terminal.;Name=pilS
-scaffold00008	.	gene	20260	21237	.	+	.	ID=2503279241;note=Tfp pilus assembly protein%2C pilus retraction ATPase PilT;Name=pilU
-scaffold00008	.	gene	21248	22564	.	+	.	ID=2503279242;note=prepilin-type N-terminal cleavage/methylation domain;Name=pilV
-scaffold00008	.	gene	23164	23565	.	+	.	ID=2503279243;note=hypothetical protein
-scaffold00008	.	gene	23650	24438	.	+	.	ID=2503279244;note=Type IV secretory pathway%2C component VirB8;Name=virB8
-scaffold00008	.	gene	24431	25228	.	+	.	ID=2503279245;note=Type IV secretory pathway%2C VirB9 components;Name=virB9
-scaffold00008	.	gene	25212	26507	.	+	.	ID=2503279246;note=Type IV secretory pathway%2C VirB10 components;Name=virB10
-scaffold00008	.	gene	26519	27595	.	+	.	ID=2503279247;note=Type IV secretory pathway%2C VirB11 components%2C and related ATPases involved in archaeal flagella biosynthesis;Name=virB11
-scaffold00008	.	gene	27605	27946	.	+	.	ID=2503279248;note=hypothetical protein
-scaffold00008	.	gene	27978	28151	.	+	.	ID=2503279249;note=hypothetical protein
-scaffold00008	.	gene	28312	29238	.	+	.	ID=2503279250;note=hypothetical protein
-scaffold00008	.	gene	29250	29528	.	+	.	ID=2503279251;note=hypothetical protein
-scaffold00008	.	gene	29515	31047	.	+	.	ID=2503279252;note=Type IV secretory pathway%2C VirD4 components;Name=virD4
-scaffold00008	.	gene	31097	31459	.	+	.	ID=2503279253;note=hypothetical protein;Name=kikA
-scaffold00008	.	gene	31474	33612	.	+	.	ID=2503279254;note=Topoisomerase IA( EC:5.99.1.2 );Name=traE
-scaffold00008	.	gene	33639	34154	.	+	.	ID=2503279255;note=Single-stranded DNA-binding protein;Name=ssb
-scaffold00008	.	gene	34437	35216	.	+	.	ID=2503279256;note=CobQ/CobB/MinD/ParA nucleotide binding domain.
-scaffold00008	.	gene	35219	35878	.	+	.	ID=2503279257;note=hypothetical protein
-scaffold00008	.	gene	35914	36291	.	-	.	ID=2503279258;note=hypothetical protein
-scaffold00008	.	gene	36546	36884	.	+	.	ID=2503279259;note=hypothetical protein
-scaffold00008	.	gene	37051	37251	.	-	.	ID=2503279260;note=hypothetical protein
-scaffold00008	.	gene	37874	38269	.	+	.	ID=2503279261;note=hypothetical protein
-scaffold00008	.	gene	38884	40650	.	+	.	ID=2503279262;note=hypothetical protein
-scaffold00008	.	gene	40714	41160	.	+	.	ID=2503279263;note=hypothetical protein
-scaffold00008	.	gene	41304	41558	.	+	.	ID=2503279264;note=hypothetical protein
-scaffold00008	.	gene	41747	43018	.	+	.	ID=2503279265;note=Primase C terminal 1 (PriCT-1)./Replicase family.;Name=repA
-scaffold00008	.	gene	43184	43774	.	-	.	ID=2503279266;note=Site-specific recombinases%2C DNA invertase Pin homologs
+scaffold00008	.	gene	576	986	.	+	.	ID=2503279215;product=hypothetical protein
+scaffold00008	.	gene	1054	1359	.	+	.	ID=2503279216;product=hypothetical protein
+scaffold00008	.	gene	1613	1792	.	+	.	ID=2503279217;product=YcfA-like protein.
+scaffold00008	.	gene	1845	2270	.	+	.	ID=2503279218;product=Uncharacterised protein family (UPF0150).
+scaffold00008	.	gene	2381	3022	.	+	.	ID=2503279219;product=ATPases involved in chromosome partitioning;Name=yafB/parA
+scaffold00008	.	gene	3022	3348	.	+	.	ID=2503279220;product=hypothetical protein
+scaffold00008	.	gene	3597	4427	.	+	.	ID=2503279221;product=hypothetical protein
+scaffold00008	.	gene	4464	4715	.	+	.	ID=2503279222;product=hypothetical protein
+scaffold00008	.	gene	4951	5055	.	+	.	ID=2503279223;product=hypothetical protein
+scaffold00008	.	gene	5152	5613	.	-	.	ID=2503279224;product=hypothetical protein;Name=bip
+scaffold00008	.	gene	5764	6111	.	-	.	ID=2503279225;product=Helix-turn-helix.
+scaffold00008	.	gene	6471	6905	.	+	.	ID=2503279226;product=Transcription termination factor nusG.
+scaffold00008	.	gene	6989	7213	.	+	.	ID=2503279227;product=hypothetical protein
+scaffold00008	.	gene	7215	7562	.	+	.	ID=2503279228;product=hypothetical protein;Name=virB1
+scaffold00008	.	gene	7549	7875	.	+	.	ID=2503279229;product=hypothetical protein;Name=virB2
+scaffold00008	.	gene	8230	10641	.	+	.	ID=2503279230;product=Type IV secretory pathway%2C VirB4 components;Name=virB4
+scaffold00008	.	gene	10652	11329	.	+	.	ID=2503279231;product=P-type DNA transfer protein VirB5;Name=virB5
+scaffold00008	.	gene	11377	11703	.	+	.	ID=2503279232;product=hypothetical protein
+scaffold00008	.	gene	11714	12652	.	+	.	ID=2503279233;product=Type IV secretory pathway%2C VirB6 components;Name=virB6
+scaffold00008	.	gene	12720	13496	.	+	.	ID=2503279234;product=hypothetical protein;Name=pilL
+scaffold00008	.	gene	13496	15205	.	+	.	ID=2503279235;product=type IVB pilus formation outer membrane protein%2C R64 PilN family;Name=pilN
+scaffold00008	.	gene	15278	16525	.	+	.	ID=2503279236;product=Pilin accessory protein (PilO).;Name=pilO
+scaffold00008	.	gene	16482	17030	.	+	.	ID=2503279237;product=type IV pilus biogenesis protein PilP;Name=pilP
+scaffold00008	.	gene	17041	18567	.	+	.	ID=2503279238;product=Type II secretory pathway%2C ATPase PulE/Tfp pilus assembly pathway%2C ATPase PilB;Name=pilQ
+scaffold00008	.	gene	18564	19661	.	+	.	ID=2503279239;product=Type II secretory pathway%2C component PulF;Name=pilR
+scaffold00008	.	gene	19673	20260	.	+	.	ID=2503279240;product=PilS N terminal.;Name=pilS
+scaffold00008	.	gene	20260	21237	.	+	.	ID=2503279241;product=Tfp pilus assembly protein%2C pilus retraction ATPase PilT;Name=pilU
+scaffold00008	.	gene	21248	22564	.	+	.	ID=2503279242;product=prepilin-type N-terminal cleavage/methylation domain;Name=pilV
+scaffold00008	.	gene	23164	23565	.	+	.	ID=2503279243;product=hypothetical protein
+scaffold00008	.	gene	23650	24438	.	+	.	ID=2503279244;product=Type IV secretory pathway%2C component VirB8;Name=virB8
+scaffold00008	.	gene	24431	25228	.	+	.	ID=2503279245;product=Type IV secretory pathway%2C VirB9 components;Name=virB9
+scaffold00008	.	gene	25212	26507	.	+	.	ID=2503279246;product=Type IV secretory pathway%2C VirB10 components;Name=virB10
+scaffold00008	.	gene	26519	27595	.	+	.	ID=2503279247;product=Type IV secretory pathway%2C VirB11 components%2C and related ATPases involved in archaeal flagella biosynthesis;Name=virB11
+scaffold00008	.	gene	27605	27946	.	+	.	ID=2503279248;product=hypothetical protein
+scaffold00008	.	gene	27978	28151	.	+	.	ID=2503279249;product=hypothetical protein
+scaffold00008	.	gene	28312	29238	.	+	.	ID=2503279250;product=hypothetical protein
+scaffold00008	.	gene	29250	29528	.	+	.	ID=2503279251;product=hypothetical protein
+scaffold00008	.	gene	29515	31047	.	+	.	ID=2503279252;product=Type IV secretory pathway%2C VirD4 components;Name=virD4
+scaffold00008	.	gene	31097	31459	.	+	.	ID=2503279253;product=hypothetical protein;Name=kikA
+scaffold00008	.	gene	31474	33612	.	+	.	ID=2503279254;product=Topoisomerase IA( EC:5.99.1.2 );Name=traE
+scaffold00008	.	gene	33639	34154	.	+	.	ID=2503279255;product=Single-stranded DNA-binding protein;Name=ssb
+scaffold00008	.	gene	34437	35216	.	+	.	ID=2503279256;product=CobQ/CobB/MinD/ParA nucleotide binding domain.
+scaffold00008	.	gene	35219	35878	.	+	.	ID=2503279257;product=hypothetical protein
+scaffold00008	.	gene	35914	36291	.	-	.	ID=2503279258;product=hypothetical protein
+scaffold00008	.	gene	36546	36884	.	+	.	ID=2503279259;product=hypothetical protein
+scaffold00008	.	gene	37051	37251	.	-	.	ID=2503279260;product=hypothetical protein
+scaffold00008	.	gene	37874	38269	.	+	.	ID=2503279261;product=hypothetical protein
+scaffold00008	.	gene	38884	40650	.	+	.	ID=2503279262;product=hypothetical protein
+scaffold00008	.	gene	40714	41160	.	+	.	ID=2503279263;product=hypothetical protein
+scaffold00008	.	gene	41304	41558	.	+	.	ID=2503279264;product=hypothetical protein
+scaffold00008	.	gene	41747	43018	.	+	.	ID=2503279265;product=Primase C terminal 1 (PriCT-1)./Replicase family.;Name=repA
+scaffold00008	.	gene	43184	43774	.	-	.	ID=2503279266;product=Site-specific recombinases%2C DNA invertase Pin homologs
