@@ -1,0 +1,52 @@
+2503279215,576,986,+,0.5,R124_00056530,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279216,1054,1359,+,0.49,R124_00056540,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279217,1613,1792,+,0.53,R124_00056550,,YcfA-like protein.,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279218,1845,2270,+,0.54,R124_00056560,,Uncharacterised protein family (UPF0150).,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279219,2381,3022,+,0.52,R124_00056570,,ATPases involved in chromosome partitioning,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279220,3022,3348,+,0.53,R124_00056580,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279221,3597,4427,+,0.53,R124_00056590,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279222,4464,4715,+,0.58,R124_00056600,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279223,4951,5055,+,0.53,R124_00056610,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279224,5152,5613,-,0.42,R124_00056620,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279225,5764,6111,-,0.55,R124_00056630,,Helix-turn-helix.,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279226,6471,6905,+,0.53,R124_00056640,,Transcription termination factor nusG.,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279227,6989,7213,+,0.43,R124_00056650,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279228,7215,7562,+,0.54,R124_00056660,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279229,7549,7875,+,0.56,R124_00056670,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279230,8230,10641,+,0.53,R124_00056680,,"Type IV secretory pathway, VirB4 components",Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279231,10652,11329,+,0.46,R124_00056690,,P-type DNA transfer protein VirB5,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279232,11377,11703,+,0.44,R124_00056700,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279233,11714,12652,+,0.47,R124_00056710,,"Type IV secretory pathway, VirB6 components",Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279234,12720,13496,+,0.6,R124_00056720,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279235,13496,15205,+,0.56,R124_00056730,,"type IVB pilus formation outer membrane protein, R64 PilN family",Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279236,15278,16525,+,0.57,R124_00056740,,Pilin accessory protein (PilO).,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279237,16482,17030,+,0.57,R124_00056750,,type IV pilus biogenesis protein PilP,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279238,17041,18567,+,0.55,R124_00056760,,"Type II secretory pathway, ATPase PulE/Tfp pilus assembly pathway, ATPase PilB",Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279239,18564,19661,+,0.56,R124_00056770,,"Type II secretory pathway, component PulF",Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279240,19673,20260,+,0.54,R124_00056780,,PilS N terminal.,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279241,20260,21237,+,0.58,R124_00056790,,"Tfp pilus assembly protein, pilus retraction ATPase PilT",Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279242,21248,22564,+,0.56,R124_00056800,,prepilin-type N-terminal cleavage/methylation domain,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279243,23164,23565,+,0.57,R124_00056810,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279244,23650,24438,+,0.51,R124_00056820,,"Type IV secretory pathway, component VirB8",Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279245,24431,25228,+,0.56,R124_00056830,,"Type IV secretory pathway, VirB9 components",Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279246,25212,26507,+,0.59,R124_00056840,,"Type IV secretory pathway, VirB10 components",Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279247,26519,27595,+,0.55,R124_00056850,,"Type IV secretory pathway, VirB11 components, and related ATPases involved in archaeal flagella biosynthesis",Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279248,27605,27946,+,0.56,R124_00056860,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279249,27978,28151,+,0.53,R124_00056870,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279250,28312,29238,+,0.56,R124_00056880,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279251,29250,29528,+,0.54,R124_00056890,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279252,29515,31047,+,0.56,R124_00056900,,"Type IV secretory pathway, VirD4 components",Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279253,31097,31459,+,0.53,R124_00056910,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279254,31474,33612,+,0.57,R124_00056920,,Topoisomerase IA( EC:5.99.1.2 ),Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279255,33639,34154,+,0.57,R124_00056930,,Single-stranded DNA-binding protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279256,34437,35216,+,0.46,R124_00056940,,CobQ/CobB/MinD/ParA nucleotide binding domain.,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279257,35219,35878,+,0.48,R124_00056950,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279258,35914,36291,-,0.49,R124_00056960,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279259,36546,36884,+,0.45,R124_00056970,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279260,37051,37251,-,0.42,R124_00056980,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279261,37874,38269,+,0.6,R124_00056990,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279262,38884,40650,+,0.58,R124_00057000,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279263,40714,41160,+,0.56,R124_00057010,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279264,41304,41558,+,0.53,R124_00057020,,hypothetical protein,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279265,41747,43018,+,0.57,R124_00057030,,Primase C terminal 1 (PriCT-1)./Replicase family.,Pseudomonas fluorescens R124 : R124_scaffold00008
+2503279266,43184,43774,-,0.55,R124_00057040,,"Site-specific recombinases, DNA invertase Pin homologs",Pseudomonas fluorescens R124 : R124_scaffold00008
