@@ -16,7 +16,7 @@ scaffold00008	.	gene	11714	12652	.	+	.	ID=2503279233;Name=virB6;note=Type IV sec
 scaffold00008	.	gene	23650	24438	.	+	.	ID=2503279244;Name=virB8;note=Type IV secretory pathway
 scaffold00008	.	gene	24431	25228	.	+	.	ID=2503279245;Name=virB9;note=Type IV secretory pathway
 scaffold00008	.	gene	25212	26507	.	+	.	ID=2503279246;Name=virB10;note=Type IV secretory pathway
-scaffold00008	.	gene	26519	27595	.	+	.	ID=2503279247;Name=virB10;note=Type IV secretory pathway
+scaffold00008	.	gene	26519	27595	.	+	.	ID=2503279247;Name=virB11;note=Type IV secretory pathway
 scaffold00008	.	gene	29515	31047	.	+	.	ID=2503279252;Name=virD4;note=Type IV secretory pathway
 scaffold00008	.	gene	6471	6905	.	+	.	ID=2503279226;Name=nusG;function=Transcription termination factor
 scaffold00008	.	gene	2381	3022	.	+	.	ID=2503279219;Name=yafB;function=ATPase;note=involved in chromosome partitioning
@@ -50,5 +50,4 @@ scaffold00008	.	gene	23164	23565	.	+	.	ID=2503279243;product=hypothetical protei
 scaffold00008	.	gene	11377	11703	.	+	.	ID=2503279232;product=hypothetical protein
 ecaffold00008	.	gene	5764	6111	.	-	.	ID=2503279225;product=hypothetical protein
 scaffold00008	.	gene	1845	2270	.	+	.	ID=2503279218;product=hypothetical protein
-scaffold00008	.	gene	1613	1792	.	+	.	ID=2503279217;product=hypothetical protein
 scaffold00008	.	gene	1613	1792	.	+	.	ID=2503279217;product=hypothetical protein
