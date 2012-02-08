@@ -13,6 +13,7 @@ genomer view fasta                     \
   --identifier=PRJNA68653              \
   --organism='Pseudomonas fluorescens' \
   --strain='R124'                      \
+  --gcode='11'                         \
   > out/plasmid.fsa
 
 cp submission/template.sbt out/plasmid.sbt
