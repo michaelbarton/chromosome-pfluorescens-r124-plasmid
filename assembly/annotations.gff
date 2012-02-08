@@ -7,7 +7,7 @@ scaffold00008	.	gene	17041	18567	.	+	.	ID=2503279238;Name=pilQ;function=ATPase;n
 scaffold00008	.	gene	18564	19661	.	+	.	ID=2503279239;Name=pilR;note=Type II secretory pathway
 scaffold00008	.	gene	19673	20260	.	+	.	ID=2503279240;Name=pilS;note=Type II secretory pathway
 scaffold00008	.	gene	20260	21237	.	+	.	ID=2503279241;Name=pilU;function=pilus retraction ATPase;note=Type II secretory pathway
-scaffold00008	.	gene	21248	22564	.	+	.	ID=2503279242;Name=pilV;product=prepilin-type N-terminal cleavage/methylation domain;note=Type II secretory pathway
+scaffold00008	.	gene	21248	22564	.	+	.	ID=2503279242;Name=pilV;function=prepilin;note=Type II secretory pathway
 scaffold00008	.	gene	7215	7562	.	+	.	ID=2503279228;Name=virB1;note=Type IV secretory pathway
 scaffold00008	.	gene	7549	7875	.	+	.	ID=2503279229;Name=virB2;note=Type IV secretory pathway
 scaffold00008	.	gene	8230	10641	.	+	.	ID=2503279230;Name=virB4;note=Type IV secretory pathway
