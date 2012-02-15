@@ -2,3 +2,8 @@
   -
     sequence:
       source: "scaffold00008"
+      start: 41747
+  -
+    sequence:
+      source: "scaffold00008"
+      stop: 41746
