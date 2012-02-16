@@ -1,32 +1,32 @@
 ##gff-version 3
-scaffold00008	.	gene	12720	13496	.	+	.	ID=2503279234;Name=pilL;note=Type II secretory pathway
-scaffold00008	.	gene	13496	15205	.	+	.	ID=2503279235;Name=pilN;function=type IVB pilus formation outer membrane protein;note=Type II secretory pathway
-scaffold00008	.	gene	15278	16525	.	+	.	ID=2503279236;Name=pilO;function=Pilin accessory protein;note=Type II secretory pathway
-scaffold00008	.	gene	16482	17030	.	+	.	ID=2503279237;Name=pilP;function=type IV pilus biogenesis;note=Type II secretory pathway
-scaffold00008	.	gene	17041	18567	.	+	.	ID=2503279238;Name=pilQ;function=ATPase;note=Type II secretory pathway
-scaffold00008	.	gene	18564	19661	.	+	.	ID=2503279239;Name=pilR;note=Type II secretory pathway
-scaffold00008	.	gene	19673	20260	.	+	.	ID=2503279240;Name=pilS;note=Type II secretory pathway
-scaffold00008	.	gene	20260	21237	.	+	.	ID=2503279241;Name=pilU;function=pilus retraction ATPase;note=Type II secretory pathway
-scaffold00008	.	gene	21248	22564	.	+	.	ID=2503279242;Name=pilV;function=prepilin;note=Type II secretory pathway
-scaffold00008	.	gene	7215	7562	.	+	.	ID=2503279228;Name=virB1;note=Type IV secretory pathway
-scaffold00008	.	gene	7549	7875	.	+	.	ID=2503279229;Name=virB2;note=Type IV secretory pathway
-scaffold00008	.	gene	8230	10641	.	+	.	ID=2503279230;Name=virB4;note=Type IV secretory pathway
-scaffold00008	.	gene	10652	11329	.	+	.	ID=2503279231;Name=virB5;note=Type IV secretory pathway;function=P-type DNA transfer
-scaffold00008	.	gene	11714	12652	.	+	.	ID=2503279233;Name=virB6;note=Type IV secretory pathway
-scaffold00008	.	gene	23650	24438	.	+	.	ID=2503279244;Name=virB8;note=Type IV secretory pathway
-scaffold00008	.	gene	24431	25228	.	+	.	ID=2503279245;Name=virB9;note=Type IV secretory pathway
-scaffold00008	.	gene	25212	26507	.	+	.	ID=2503279246;Name=virB10;note=Type IV secretory pathway
-scaffold00008	.	gene	26519	27595	.	+	.	ID=2503279247;Name=virB11;note=Type IV secretory pathway
-scaffold00008	.	gene	29515	31047	.	+	.	ID=2503279252;Name=virD4;note=Type IV secretory pathway
+scaffold00008	.	gene	12720	13496	.	+	.	ID=2503279234;Name=pilL;Note=Type II secretory pathway
+scaffold00008	.	gene	13496	15205	.	+	.	ID=2503279235;Name=pilN;function=type IVB pilus formation outer membrane protein;Note=Type II secretory pathway
+scaffold00008	.	gene	15278	16525	.	+	.	ID=2503279236;Name=pilO;function=Pilin accessory protein;Note=Type II secretory pathway
+scaffold00008	.	gene	16482	17030	.	+	.	ID=2503279237;Name=pilP;function=type IV pilus biogenesis;Note=Type II secretory pathway
+scaffold00008	.	gene	17041	18567	.	+	.	ID=2503279238;Name=pilQ;function=ATPase;Note=Type II secretory pathway
+scaffold00008	.	gene	18564	19661	.	+	.	ID=2503279239;Name=pilR;Note=Type II secretory pathway
+scaffold00008	.	gene	19673	20260	.	+	.	ID=2503279240;Name=pilS;Note=Type II secretory pathway
+scaffold00008	.	gene	20260	21237	.	+	.	ID=2503279241;Name=pilU;function=pilus retraction ATPase;Note=Type II secretory pathway
+scaffold00008	.	gene	21248	22564	.	+	.	ID=2503279242;Name=pilV;function=prepilin;Note=Type II secretory pathway
+scaffold00008	.	gene	7215	7562	.	+	.	ID=2503279228;Name=virB1;Note=Type IV secretory pathway
+scaffold00008	.	gene	7549	7875	.	+	.	ID=2503279229;Name=virB2;Note=Type IV secretory pathway
+scaffold00008	.	gene	8230	10641	.	+	.	ID=2503279230;Name=virB4;Note=Type IV secretory pathway
+scaffold00008	.	gene	10652	11329	.	+	.	ID=2503279231;Name=virB5;Note=Type IV secretory pathway;function=P-type DNA transfer
+scaffold00008	.	gene	11714	12652	.	+	.	ID=2503279233;Name=virB6;Note=Type IV secretory pathway
+scaffold00008	.	gene	23650	24438	.	+	.	ID=2503279244;Name=virB8;Note=Type IV secretory pathway
+scaffold00008	.	gene	24431	25228	.	+	.	ID=2503279245;Name=virB9;Note=Type IV secretory pathway
+scaffold00008	.	gene	25212	26507	.	+	.	ID=2503279246;Name=virB10;Note=Type IV secretory pathway
+scaffold00008	.	gene	26519	27595	.	+	.	ID=2503279247;Name=virB11;Note=Type IV secretory pathway
+scaffold00008	.	gene	29515	31047	.	+	.	ID=2503279252;Name=virD4;Note=Type IV secretory pathway
 scaffold00008	.	gene	6471	6905	.	+	.	ID=2503279226;Name=nusG;function=Transcription termination factor
-scaffold00008	.	gene	2381	3022	.	+	.	ID=2503279219;Name=yafB;function=ATPase;note=involved in chromosome partitioning
+scaffold00008	.	gene	2381	3022	.	+	.	ID=2503279219;Name=yafB;function=ATPase;Note=involved in chromosome partitioning
 scaffold00008	.	gene	31097	31459	.	+	.	ID=2503279253;Name=kikA
 scaffold00008	.	gene	5152	5613	.	-	.	ID=2503279224;Name=bip
-scaffold00008	.	gene	31474	33612	.	+	.	ID=2503279254;Name=traE;function=Topoisomerase IA;EC_number=5.99.1.2
+scaffold00008	.	gene	31474	33612	.	+	.	ID=2503279254;Name=traE;function=Topoisomerase IA;ec_number=5.99.1.2
 scaffold00008	.	gene	33639	34154	.	+	.	ID=2503279255;Name=ssb;function=Single-stranded DNA-binding protein
-scaffold00008	.	gene	41747	43018	.	+	.	ID=2503279265;Name=repA;function=Replicase;note=Primase C terminal 1 (PriCT-1)
-scaffold00008	.	gene	34437	35216	.	+	.	ID=2503279256;product=hypothetical protein;note=CobQ/CobB/MinD/ParA nucleotide binding domain
-scaffold00008	.	gene	43184	43774	.	-	.	ID=2503279266;product=Site-specific recombinase;note=DNA invertase Pin homolog
+scaffold00008	.	gene	41747	43018	.	+	.	ID=2503279265;Name=repA;function=Replicase;Note=Primase C terminal 1 (PriCT-1)
+scaffold00008	.	gene	34437	35216	.	+	.	ID=2503279256;product=hypothetical protein;Note=CobQ/CobB/MinD/ParA nucleotide binding domain
+scaffold00008	.	gene	43184	43774	.	-	.	ID=2503279266;product=Site-specific recombinase;Note=DNA invertase Pin homolog
 scaffold00008	.	gene	35219	35878	.	+	.	ID=2503279257;product=hypothetical protein
 scaffold00008	.	gene	35914	36291	.	-	.	ID=2503279258;product=hypothetical protein
 scaffold00008	.	gene	36546	36884	.	+	.	ID=2503279259;product=hypothetical protein
