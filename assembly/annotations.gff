@@ -1,13 +1,13 @@
 ##gff-version 3
 scaffold00008	.	gene	12720	13496	.	+	.	ID=2503279234;Name=pilL;Note=Type II secretory pathway
-scaffold00008	.	gene	13496	15205	.	+	.	ID=2503279235;Name=pilN;function=type IVB pilus formation outer membrane protein;Note=Type II secretory pathway
+scaffold00008	.	gene	13496	15205	.	+	.	ID=2503279235;Name=pilN;function=Type IVB pilus formation outer membrane protein;Note=Type II secretory pathway
 scaffold00008	.	gene	15278	16525	.	+	.	ID=2503279236;Name=pilO;function=Pilin accessory protein;Note=Type II secretory pathway
-scaffold00008	.	gene	16482	17030	.	+	.	ID=2503279237;Name=pilP;function=type IV pilus biogenesis;Note=Type II secretory pathway
+scaffold00008	.	gene	16482	17030	.	+	.	ID=2503279237;Name=pilP;function=Type IV pilus biogenesis;Note=Type II secretory pathway
 scaffold00008	.	gene	17041	18567	.	+	.	ID=2503279238;Name=pilQ;function=ATPase;Note=Type II secretory pathway
 scaffold00008	.	gene	18564	19661	.	+	.	ID=2503279239;Name=pilR;Note=Type II secretory pathway
 scaffold00008	.	gene	19673	20260	.	+	.	ID=2503279240;Name=pilS;Note=Type II secretory pathway
-scaffold00008	.	gene	20260	21237	.	+	.	ID=2503279241;Name=pilU;function=pilus retraction ATPase;Note=Type II secretory pathway
-scaffold00008	.	gene	21248	22564	.	+	.	ID=2503279242;Name=pilV;function=prepilin;Note=Type II secretory pathway
+scaffold00008	.	gene	20260	21237	.	+	.	ID=2503279241;Name=pilU;function=Pilus retraction ATPase;Note=Type II secretory pathway
+scaffold00008	.	gene	21248	22564	.	+	.	ID=2503279242;Name=pilV;function=Prepilin;Note=Type II secretory pathway
 scaffold00008	.	gene	7215	7562	.	+	.	ID=2503279228;Name=virB1;Note=Type IV secretory pathway
 scaffold00008	.	gene	7549	7875	.	+	.	ID=2503279229;Name=virB2;Note=Type IV secretory pathway
 scaffold00008	.	gene	8230	10641	.	+	.	ID=2503279230;Name=virB4;Note=Type IV secretory pathway
