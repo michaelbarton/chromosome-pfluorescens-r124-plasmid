@@ -72,6 +72,30 @@ Seqdesc ::= pub {
           },
           {
             name name {
+              last "Petronio",
+              first "Michael",
+              initials "M.",
+              suffix ""
+            }
+          },
+          {
+            name name {
+              last "Giarrizzo",
+              first "Juan",
+              initials "J.G.",
+              suffix ""
+            }
+          },
+          {
+            name name {
+              last "Bowling",
+              first "Bethany",
+              initials "B.",
+              suffix ""
+            }
+          },
+          {
+            name name {
               last "Barton",
               first "Hazel",
               initials "H.A.",
