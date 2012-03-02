@@ -92,8 +92,7 @@ Seqdesc ::= pub {
           postal-code "44325-3908"
         }
       },
-      title "Genomic Sequencing of a cave-isolated P. fluorescens strain
- suggests adaptation to nutrient limitation."
+      title "The genome of cave-isolated P. fluorescens strain R124 demonstrates phenotypic adaptation to the mineral environment."
     }
   }
 }
