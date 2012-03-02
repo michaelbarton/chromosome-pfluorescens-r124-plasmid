@@ -22,17 +22,14 @@ plasmid.tbl:
 		--create_cds='gnl|BartonUAkron|' \
 		> plasmid.tbl
 
-plasmid.sbt:
-	cp submission/template.sbt plasmid.sbt
+plasmid.sqn: plasmid.fsa plasmid.tbl submission/template.sbt
+	tbl2asn -p . -t submission/template.sbt
 
-plasmid.sqn: plasmid.fsa plasmid.tbl plasmid.sbt
-	tbl2asn -p .
+plasmid.gbf: plasmid.fsa plasmid.tbl submission/template.sbt
+	tbl2asn -p . -V b -t submission/template.sbt
 
-plasmid.gbf: plasmid.fsa plasmid.tbl plasmid.sbt
-	tbl2asn -p . -V b
-
-plasmid.log: plasmid.fsa plasmid.tbl plasmid.sbt
-	tbl2asn -p . -V v
+plasmid.log: plasmid.fsa plasmid.tbl submission/template.sbt
+	tbl2asn -p . -V v -t submission/template.sbt
 	mv errorsummary.val plasmid.log
 
 clean:
