@@ -90,7 +90,7 @@ Seqdesc ::= pub {
             name name {
               last "Bowling",
               first "Bethany",
-              initials "B.",
+              initials "B.V.",
               suffix ""
             }
           },
