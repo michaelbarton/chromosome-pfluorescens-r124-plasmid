@@ -1,10 +1,33 @@
-all: build
+SCAFFOLD=assembly/scaffold.yml
+SEQUENCE=assembly/sequence.fna
+ANNTTION=assembly/annotations.gff
+TEMPLATE=submission/template.sbt
 
-build: plasmid.sqn
 
-plasmid.fsa:
-	genomer view fasta                                 \
-		--identifier=PRJNA68653                          \
+TABLE=plasmid.tbl
+
+GENOME=plasmid.fsa
+
+GENOMESQN=plasmid.sqn
+GENOMEGBF=plasmid.gbf
+
+LOG=plasmid.val
+
+all: $(AGP) $(GENOMESQN) $(LOG)
+
+$(LOG): $(GENOME) $(TABLE) $(TEMPLATE)
+	tbl2asn -p . -M n -t $(TEMPLATE) -Z $@
+	rm -f errorsummary.val
+
+$(GENOMEGBF): $(GENOME) $(TABLE) $(TEMPLATE)
+	tbl2asn -p . -V b -t $(TEMPLATE)
+
+$(GENOMESQN): $(GENOME) $(TABLE) $(TEMPLATE)
+	tbl2asn -p . -t $(TEMPLATE) -i $(GENOME) -c b
+
+$(GENOME): $(SCAFFOLD) $(SEQUENCE)
+	genomer view fasta 	                                 \
+		--identifier='PRJNA46289'                        \
 		--organism='Pseudomonas fluorescens'             \
 		--strain='R124'                                  \
 		--gcode='11'                                     \
@@ -12,25 +35,15 @@ plasmid.fsa:
 		--isolation-source='Orthoquartzite Cave Surface' \
 		--collection-date='17-Oct-2007'                  \
 		--completeness='Complete'                        \
-		> plasmid.fsa
+		> $@
 
-plasmid.tbl:
-	genomer view table                 \
-		--identifier=PRJNA68653          \
-		--reset_locus_numbering          \
-		--prefix='I1A_'                  \
-		--create_cds='gnl|BartonUAkron|' \
-		> plasmid.tbl
-
-plasmid.sqn: plasmid.fsa plasmid.tbl submission/template.sbt
-	tbl2asn -p . -t submission/template.sbt
-
-plasmid.gbf: plasmid.fsa plasmid.tbl submission/template.sbt
-	tbl2asn -p . -V b -t submission/template.sbt
-
-plasmid.log: plasmid.fsa plasmid.tbl submission/template.sbt
-	tbl2asn -p . -V v -t submission/template.sbt
-	mv errorsummary.val plasmid.log
+$(TABLE): $(SCAFFOLD) $(SEQUENCE) $(ANNTTION)
+	genomer view table					\
+		--identifier=PRJNA46289                         \
+		--reset_locus_numbering                        \
+		--prefix='E1A_'                                 \
+		--generate_encoded_features='gnl|BartonUAkron|' \
+		> $@
 
 clean:
-	rm plasmid.*
+	rm -f plasmid.*
