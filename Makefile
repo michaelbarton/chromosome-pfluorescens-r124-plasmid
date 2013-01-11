@@ -10,10 +10,11 @@ GENOME=plasmid.fsa
 
 GENOMESQN=plasmid.sqn
 GENOMEGBF=plasmid.gbf
+GENOMEMAP=plasmid.map
 
 LOG=plasmid.val
 
-all: $(AGP) $(GENOMESQN) $(LOG)
+all: $(AGP) $(GENOMESQN) $(LOG) $(GENOMEMAP)
 
 $(LOG): $(GENOME) $(TABLE) $(TEMPLATE)
 	tbl2asn -p . -M n -t $(TEMPLATE) -Z $@
@@ -24,6 +25,12 @@ $(GENOMEGBF): $(GENOME) $(TABLE) $(TEMPLATE)
 
 $(GENOMESQN): $(GENOME) $(TABLE) $(TEMPLATE)
 	tbl2asn -p . -t $(TEMPLATE) -i $(GENOME) -c b
+
+$(GENOMEMAP): $(SCAFFOLD) $(SEQUENCE) $(ANNTTION)
+	genomer view mapping					\
+		--reset_locus_numbering                         \
+		--prefix='E1A_'                                 \
+		> $@
 
 $(GENOME): $(SCAFFOLD) $(SEQUENCE)
 	genomer view fasta 	                                 \
